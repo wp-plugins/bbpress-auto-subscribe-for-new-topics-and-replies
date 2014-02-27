@@ -24,6 +24,13 @@ This plugin ..
 * will save the state of the checkbox for "new topics" and "new replies" via ajax.
 * will make your bbPress users more happy! ;-)
 
+**More about me and [http://www.ifs-net.de](ifs-net.de's Plugins "ifs-net.de")**
+
+Since the year 1999 I do administration, customizing and programming for several forums, communities and social networks. In the year 2013 I switched from another PHP framework to Wordpress.
+Because not all plugins I'd like to have exist already I wrote some own plugins and I think I'll continue to do so.
+
+If you have the scope at forums or social networks my other modules might also be interesting for you. [Just take a look at my Wordpress Profile to see all my Plugins.](http://wordpress.org/plugins/search.php?q=quan_flo "ifs-net / quan_flo Wordpress Plugins") Use them and if my work helps you to save time, earn money or just makes you happy [http://ifs-net.de/donate.php](Feel free to donate - Thanks "Donate if you like my work")
+
 == Installation ==
 
 1. Upload the files to the `/wp-content/plugins/bbpress-auto-subscribe-for-new-topics-and-replies/` directory or install through WordPress directly.
